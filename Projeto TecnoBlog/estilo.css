@@ -1,0 +1,140 @@
+/*limpando formatações*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, Sans-serif;
+	background: #e6e6e6;
+}
+	
+
+/* 
+******LAYOUT*******
+*/
+ 
+#area-cabecalho{
+	background: #FFBF00;
+	padding: 15px;
+	text-align: center;
+}
+
+#area-logo, #area-menu{
+	padding: 10px;
+}
+
+#area-principal{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#area-postagens{
+	width: 660px; /* importante observar que eu tenho uma area principal de 920px e depois eu tenho
+	660px + 240px = 900px, fica faltando 20 que eu deixo para usar de margem entre uma div e outra.*/
+	float: left;
+
+}	
+
+#area-lateral{
+	width: 240px;
+	float: right;
+}
+
+/*
+****** formatações gerais *****
+*/
+
+h1{
+	color: #4e4e4e
+	font-size: 2.5em;
+}
+
+h2{
+	color: #f7b600;
+}
+
+h3{
+	color: #565656;
+	background: #ccc;
+	padding: 5px;
+}
+
+.branco{
+	color: white;
+}
+
+.data-postagem{
+	font-size: 0.8em;/* a unidade usada é 1em entao 0.8 deixará um pouco menor*/
+	margin-bottom: 10px;
+	display: block; /*nesse caso o span é um elemento inline e eu preciso mudar
+	o comportamento dele, por isso usei essa propriedade do display block, para 
+	que aparecesse a margem inferior.*/
+}
+
+/*
+***** formatação do menu *****
+*/
+
+a{
+	text-decoration: none;
+
+}
+
+a:link, a:visited{
+	color:#f7b600;
+	 
+}
+ 
+a:hover{
+	text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited{ /*eu usei seletor porem, tudo que estiver dentro da area de cabeçalho, nesse caso os links*/
+	color:white;
+	padding: 8px 12px; 
+}
+ 
+#area-cabecalho a:hover{
+	background: white;
+	color: #FFBF00;
+	text-decoration: none;	
+}
+
+
+.TituloLateral{
+	background:#D8D8D8;
+	width: 200px;
+}
+
+.Links{
+	color: #FFBF00;
+}
+
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #ccc;
+}
+
+.postagem{
+	background: white;
+	padding: 20px;
+	margin-bottom: 20px; /*descolar o rodapé da area de postagens*/	
+}
+
+.conteudo-lateral{
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.postagem-lateral{
+	font-size: 0.8em;
+	padding: 5px;
+}
+
