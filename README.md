@@ -1,10 +1,6 @@
 # Template-Pagina-Web
 > Site fictício, com HTML5 e CSS3, modelo desenvolvido afim de praticar os conhecimentos adquiridos dentre eles:
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 - Aplicações de classes do CSS3
 - Aplicações de ID´s do CSS3
 - Mudança de cores e efeitos de clique, para cliques visitados, e efeitos de mudança de cores ao sobrepor o cursor do mouse no link.
