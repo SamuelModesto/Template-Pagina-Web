@@ -7,19 +7,7 @@
 
 ![](../header.png)
 
-## Instalação
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Exemplo de uso
 
