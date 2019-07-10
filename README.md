@@ -22,7 +22,7 @@ Alguns exemplos interessantes e úteis sobre como esse projeto pode ser utilizad
 
 ## Meta
 
-Seu Nome – [@SamuelModesto](https:https://www.linkedin.com/in/samuelmodesto/) – samuelmodestoes@gmail.com
+ [@SamuelModesto](https:https://www.linkedin.com/in/samuelmodesto/) – samuelmodestoes@gmail.com
 
 Distribuído sob a licença MIT.
 
@@ -30,7 +30,7 @@ Distribuído sob a licença MIT.
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<github.com/SamuelModesto/Template-Pagina-Web/fork>)
+1. Faça o _fork_ do projeto (https://github.com/SamuelModesto/Template-Pagina-Web/fork)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
