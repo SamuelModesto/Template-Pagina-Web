@@ -20,9 +20,9 @@ Alguns exemplos interessantes e úteis sobre como esse projeto pode ser utilizad
 * Commit único 
 
 
-## Contato
+## Conheça minhas Skills
 
- [Samuel Modesto](https://www.linkedin.com/in/samuelmodesto/) – samuelmodestoes@gmail.com
+ [Samuel Modesto (linkedin)](https://www.linkedin.com/in/samuelmodesto/)  – samuelmodestoes@gmail.com
 
 Distribuído sob a licença MIT.
 
